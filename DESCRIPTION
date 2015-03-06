@@ -8,10 +8,12 @@ Authors@R: person("Bhaskar", "Karambelkar", email = "bhaskarvk@gmail.com",
 Description: Utility Functions for dealing with IP Addresses
 License: MIT + file LICENSE
 LazyData: TRUE
-Imports:
+Imports: 
     bitops,
     parallel
-Suggests:
-    testthat
+Suggests: 
+    testthat,
+    knitr
 URL: https://github.com/bhaskarvk/iputils
 BugReports: https://github.com/bhaskarvk/iputils/issues
+VignetteBuilder: knitr
