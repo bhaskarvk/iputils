@@ -1,0 +1,10 @@
+Package: iputils
+Type: Package
+Title: IP Address related utility functions
+Version: 0.1
+Date: 2015-03-05
+Author: Bhaskar V. Karambelkar
+Maintainer: <bhaskarvk@gmail.com>
+Description: Utility Functions for dealing with IP Addresses
+License: Apache License, Version 2.0
+LazyData: TRUE
