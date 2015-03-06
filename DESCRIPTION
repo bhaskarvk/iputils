@@ -6,10 +6,12 @@ Date: 2015-03-05
 Authors@R: person("Bhaskar", "Karambelkar", email = "bhaskarvk@gmail.com",
   role = c("aut", "cre"))
 Description: Utility Functions for dealing with IP Addresses
-License: MIT
+License: MIT + file LICENSE
 LazyData: TRUE
 Imports:
     bitops,
     parallel
+Suggests:
+    testthat
 URL: https://github.com/bhaskarvk/iputils
 BugReports: https://github.com/bhaskarvk/iputils/issues
